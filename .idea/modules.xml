@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/avaliacao_diego_fipe_moblize.iml" filepath="$PROJECT_DIR$/avaliacao_diego_fipe_moblize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/avaliacao_diego_fipe_moblize_android.iml" filepath="$PROJECT_DIR$/android/avaliacao_diego_fipe_moblize_android.iml" />
+    </modules>
+  </component>
+</project>
