@@ -165,6 +165,7 @@ void deleteItem(BuildContext context, Car car) async {
   final HomeController homeController = GetIt.I<HomeController>();
   await CarRepository()
       .delete(car)
+      .then((_) => homeController.getHomeList())
       .timeout(Duration(milliseconds: 1000))
       .then((_) => homeController.getHomeList());
 }
