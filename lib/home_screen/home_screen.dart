@@ -7,7 +7,7 @@ import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get_it/get_it.dart';
 
-import 'car_list_item.dart';
+import '../components/car_list_item.dart';
 import 'home_controller.dart';
 
 class HomeScreen extends StatelessWidget {

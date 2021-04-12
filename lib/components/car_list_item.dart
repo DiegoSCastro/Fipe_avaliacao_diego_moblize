@@ -4,7 +4,7 @@ import 'package:avaliacao_diego_fipe_moblize/repository/car_repository.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
 
-import 'home_controller.dart';
+import '../home_screen/home_controller.dart';
 
 class CarListItem extends StatelessWidget {
   final Car car;
